@@ -1,0 +1,4 @@
+
+ALTER TABLE book ADD COLUMN editore TEXT;
+ALTER TABLE book ADD COLUMN numero_pagine INTEGER;
+
